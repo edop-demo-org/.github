@@ -2,7 +2,6 @@
     "name": "Dojo Organization Workflow",
     "description": "Dojo Organization CI starter workflow.",
     "iconName": "example-icon",
-    "categories": ["Continuous integration", "JavaScript", "npm", "React"],
-    "labels": ["preview"]
+    "categories": ["Continuous integration", "JavaScript", "npm", "React"]
 }
     
